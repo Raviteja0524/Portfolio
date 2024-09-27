@@ -1,0 +1,28 @@
+[
+  {
+    "role": "SWE Intern",
+    "organisation": "Lucid Data Hub",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Specialize in Python for data processing using PySpark",
+      "Handle large datasets efficiently",
+      "Apply transformations to improve data quality",
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/lucid.jpeg"
+  },
+  {
+    "role": "FE Developer Intern",
+    "organisation": "Code Alpha",
+    "startDate": "May, 2023",
+    "endDate": "June, 2023",
+    "experiences": [
+      "Designed and implemented a temperature converter website",
+      "Built efficient, testable, and reusable code following modern practices",
+      "Utilized HTML, CSS, Bootstrap, and JavaScript for development"
+    ],
+    "imageSrc": "history/code.jpeg"
+  }
+]

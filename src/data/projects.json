@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Modelling and analysis of wireless Electric Vehicle charging system using renewable energy",
+    "imageSrc": "projects/Mat.jpg",
+    "description": "Engineered and deployed a solar wireless electric vehicle charging system, leveraging expertise in photovoltaic technology and wireless power transfer systems, contributing to a 30% increase in charging efficiency and customer satisfaction.",
+    "skills": ["MATLAB", "Simulink", "Prototyping","Programming"],
+    "source": "https://github.com/Raviteja0524/Academic_project.git"
+  },
+  {
+    "title": "Covid Data Exploration",
+    "imageSrc": "projects/Dat.jpg",
+    "description": "Project aims to provide a comprehensive and interactive exploration of COVID-19 datasets, enabling users to gain a deeper understanding of the pandemic's impact worldwide. Interactive Dashboards,Temporal Analysis, Geospatial Mapping, Comparative Analytics",
+    "skills": ["SQL", "MS-Excel", "Data"],
+    "source": "https://github.com/Raviteja0524/SQL_Projects"
+  }
+]
